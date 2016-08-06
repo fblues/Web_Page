@@ -7,7 +7,7 @@
 
 Paragraph text here
 
-'''ruby
+```ruby
 puts "this is code"
 if this then that 
-'''
+```
